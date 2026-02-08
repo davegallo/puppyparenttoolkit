@@ -75,7 +75,7 @@ export default function Home() {
             <a href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <Heart className="h-6 w-6 text-primary" fill="currentColor" />
               <span className="text-xl font-semibold" style={{ fontFamily: 'var(--font-display)' }}>
-                PuppyParent Toolkit
+                PuppyParent
               </span>
             </a>
             
